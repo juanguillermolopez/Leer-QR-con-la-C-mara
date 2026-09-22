@@ -10,5 +10,7 @@ Antes de usar la clase, instala estos paquetes en tu proyecto (en Visual Studio
 Herramientas > Administrador de paquetes NuGet > Consola del Administrador de paquetes)
 
 Install-Package AForge.Video
+
 Install-Package AForge.Video.DirectShow
+
 Install-Package ZXing.Net
